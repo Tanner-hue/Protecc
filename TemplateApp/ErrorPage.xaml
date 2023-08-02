@@ -41,5 +41,5 @@
         </StackPanel>
         <WebView HorizontalAlignment="Stretch" DefaultBackgroundColor="Transparent" VerticalAlignment="Stretch" Source="ms-appx-web:///CubeKit.UI/Materials/Windows11Danger.html"/>
     </Grid>
-
 </Page>
+<p>Sorry but something di not go right so it seems like the page had an error</p>
